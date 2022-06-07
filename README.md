@@ -13,6 +13,7 @@
 
 
 ## Example:
+
 {
 
       "type": "application/wind",
@@ -31,4 +32,4 @@
         
       }
       
- },
+ }
