@@ -27,26 +27,15 @@
      }
       
      {
-     
-      "type": "application/wind",
-      
-      "content": {
-      
-        "windType": "central",
-        
-        "direction": [0, 0.3, 0],
-        
-        "radius": 5,
-        
-        "position": [0, 0, -10],
-        
-        "windForce": 5,
-        
-        "noiseScale": 10,
-        
-        "windFrequency": 10
-        
+      "type": "application/wind",      
+      "content": {      
+        "windType": "central",        
+        "direction": [0, 0.3, 0],        
+        "radius": 5,        
+        "position": [0, 0, -10],       
+        "windForce": 5,      
+        "noiseScale": 10,      
+        "windFrequency": 10  
       }
-      
      }
       
