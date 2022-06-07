@@ -10,3 +10,16 @@
 ### windForce: The primary force applied to all objects affected by the Wind Zone
 ### noiseScale: The value represents the noise of the wind. A greater value creates higher variation in wind direction.
 ### windFrequency: Defines the length and frequency of the wind pulses.
+
+
+## Example:
+{
+      "type": "application/wind",
+      "content": {
+        "windType": "directional",
+        "direction": [0.5, 0, 0.2],
+        "windForce": 0.5,
+        "noiseScale": 1,
+        "windFrequency": 1
+      }
+ },
