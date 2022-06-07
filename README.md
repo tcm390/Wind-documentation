@@ -15,8 +15,8 @@
 ## Example:
 
 
-      {"type": "application/wind",
-      
+     {
+      "type": "application/wind",
       
       "content": {
       
@@ -30,9 +30,12 @@
         
         "windFrequency": 1
         
-      }}
+      }
+     }
       
-      {"type": "application/wind",
+     {
+     
+      "type": "application/wind",
       
       "content": {
       
@@ -50,5 +53,7 @@
         
         "windFrequency": 10
         
-      }}
+      }
+      
+     }
       
