@@ -14,9 +14,7 @@
 
 ## Example:
 
-{
-
-      "type": "application/wind",
+{ "type": "application/wind",
       
       "content": {
       
