@@ -17,19 +17,12 @@
 
      {
       "type": "application/wind",
-      
       "content": {
-      
         "windType": "directional",
-        
         "direction": [0.5, 0, 0.2],
-        
         "windForce": 0.5,
-        
         "noiseScale": 1,
-        
         "windFrequency": 1
-        
       }
      }
       
