@@ -5,8 +5,6 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spherical  | Wind zone only has an effect inside the radius, and has a falloff from the center towards the edge.  |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;central  | Wind zone only has an effect inside the radius, the wind direction is always from center to player, and also has a falloff from the center towards the edge.  |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;directional  | Wind zone affects the entire scene in one direction.  |
-
-
 | direction  |  |
 | ------------- | ------------- |
 | direction of the Wind Zone (only active for Spherical and Directional)|
